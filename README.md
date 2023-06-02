@@ -8,3 +8,5 @@ _❗ For the best experience, use an Intel i3 Thinkpad :^)_
 <!-- - Polybar: `yay -S polybar` -->
 - autotiling: `yay -S autotiling`
 - picom: `yay -S picom`
+- rofi: `yay -S rofi`
+- catppuccin's rofi: `https://github.com/catppuccin/rofi/tree/main/basic/.config/rofi`
