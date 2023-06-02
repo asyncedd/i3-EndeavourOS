@@ -348,7 +348,7 @@ for_window [class=TelegramDesktop] focus
 #exec_always --no-startup-id picom -b
 #
 # for custom config:
-#exec_always --no-startup-id picom --config  ~/.config/picom.conf
+exec_always --no-startup-id picom --config  ~/.config/picom.conf
 
 #############################################
 # autostart applications/services on login: #
@@ -412,9 +412,6 @@ exec --no-startup-id /usr/bin/dunst
 
 # Polybar
 # exec --no-startup-id polybar
-
-# Picom
-exec --no-startup-id picom
 
 # autotiling script
 # https://github.com/nwg-piotr/autotiling
