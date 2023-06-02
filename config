@@ -411,7 +411,7 @@ exec --no-startup-id /usr/bin/dunst
 # exec --no-startup-id /usr/lib/xfce4/notifyd/xfce4-notifyd &
 
 # Polybar
-exec --no-startup-id polybar
+# exec --no-startup-id polybar
 
 # autotiling script
 # https://github.com/nwg-piotr/autotiling
