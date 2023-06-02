@@ -413,6 +413,9 @@ exec --no-startup-id /usr/bin/dunst
 # Polybar
 # exec --no-startup-id polybar
 
+# Picom
+exec --no-startup-id picom
+
 # autotiling script
 # https://github.com/nwg-piotr/autotiling
 # `yay -S autotiling ;) (it is in AUR)
