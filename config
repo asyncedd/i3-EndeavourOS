@@ -409,9 +409,6 @@ exec --no-startup-id /usr/bin/dunst
 # alternative if you installed aside with XFCE4:
 # exec --no-startup-id /usr/lib/xfce4/notifyd/xfce4-notifyd &
 
-#Polybar
-exec --no-startup-id polybar
-
 # autotiling script
 # https://github.com/nwg-piotr/autotiling
 # `yay -S autotiling ;) (it is in AUR)
